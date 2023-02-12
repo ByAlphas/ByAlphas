@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Hi, my name is Alpha 👋</h1>
+    <h1 align="center">Hi, my name Alpha 👋</h1>
 </p>
 
 <h1 align="center">
@@ -25,17 +25,17 @@
     Discord Status
 </h1>
 <p align="center">
-    <a href="https://github.com/kralbey38050">
-      <img src="https://lanyard.cnrad.dev/api/755692726074343424?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Nothing+xd" />
+    <a href="https://github.com/ByAlphas">
+      <img src="https://lanyard.cnrad.dev/api/755692726074343424?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Nothing+Have a nice day..." />
 </p>
     
 <h1 align="center">
     My GitHub Stats
 </h1>
   <p align="center">
-    <a href="https://github.com/kralbey38050/">
-        <img src="https://github-readme-stats.vercel.app/api?username=kralbey38050&show_icons=true&theme=dark" />
-    <a href="https://github.com/kralbey38050">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=kralbey38050&show_icons=true&theme=dark" />
+    <a href="https://github.com/ByAlphas/">
+        <img src="https://github-readme-stats.vercel.app/api?username=ByAlphas&show_icons=true&theme=dark" />
+    <a href="https://github.com/ByAlphas">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ByAlphas&show_icons=true&theme=dark" />
     </a>
 <p>

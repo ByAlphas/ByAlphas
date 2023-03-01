@@ -24,10 +24,7 @@
 <h1 align="center">
     Discord Status
 </h1>
-<p align="center">
-    <a href="https://github.com/ByAlphas">
-      <img src="https://lanyard.cnrad.dev/api/755692726074343424?theme=dark&animated=true&hideDiscrim=true&borderRadius=10px&idleMessage=Nothing+Have a nice day..." />
-</p>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/755692726074343424?hideDiscrim=true)](https://discord.com/users/755692726074343424)
     
 <h1 align="center">
     My GitHub Stats
@@ -39,5 +36,3 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=ByAlphas&show_icons=true&theme=dark" />
     </a>
 <p>
-
-    [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/755692726074343424?hideDiscrim=true)](https://discord.com/users/755692726074343424)

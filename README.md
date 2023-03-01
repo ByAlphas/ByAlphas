@@ -21,8 +21,15 @@
     <img src="https://img.shields.io/badge/MongoDB-323540?style=for-the-badge&logo=mongodb&logoColor=5294E2" alt="MongoDB" style="border-radius:15px"/>
 </div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/755692726074343424)](https://discord.com/users/755692726074343424)
-    
+<h1 align="center">
+    Discord Status
+</h1>
+  <p align="center">
+    <a href="https://github.com/ByAlphas/">
+        <img src= [![Discord Presence](https://lanyard.cnrad.dev/api/755692726074343424)](https://discord.com/users/755692726074343424) />
+    </a>
+<p>
+
 <h1 align="center">
     My GitHub Stats
 </h1>

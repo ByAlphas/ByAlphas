@@ -25,7 +25,7 @@
     Discord Status
 </h1>
   <p align="center">
-    <a href="https://github.com/ByAlphas/">
+    <a href="https://lanyard.cnrad.dev/api/755692726074343424">
         <img src= [![Discord Presence](https://lanyard.cnrad.dev/api/755692726074343424)](https://discord.com/users/755692726074343424) />
     </a>
 <p>

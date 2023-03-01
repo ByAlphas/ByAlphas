@@ -39,3 +39,5 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=ByAlphas&show_icons=true&theme=dark" />
     </a>
 <p>
+
+    [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/755692726074343424?hideDiscrim=true)](https://discord.com/users/755692726074343424)

@@ -36,3 +36,5 @@
 
     
 Discord Accounts: [&By Alpha#0001](https://discord.com/users/755692726074343424)
+    
+[![Discord Presence](https://lanyard.cnrad.dev/api/755692726074343424)](https://discord.com/users/755692726074343424)

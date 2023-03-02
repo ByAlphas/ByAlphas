@@ -22,10 +22,11 @@
 </div>
 
 
-<h1 align="center">
+
         Discord Status
 </h1>
 [![Discord Presence](https://lanyard.cnrad.dev/api/755692726074343424)](https://discord.com/users/755692726074343424)
+</h1>
 
 
 

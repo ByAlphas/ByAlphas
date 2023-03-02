@@ -21,6 +21,8 @@
     <img src="https://img.shields.io/badge/MongoDB-323540?style=for-the-badge&logo=mongodb&logoColor=5294E2" alt="MongoDB" style="border-radius:15px"/>
 </div>
 
+#Discord Status
+[![Discord Presence](https://lanyard.cnrad.dev/api/755692726074343424)](https://discord.com/users/755692726074343424)
 
 
 <h1 align="center">
@@ -34,7 +36,4 @@
     </a>
 <p>
 
-    
-Discord Accounts: [&By Alpha#0001](https://discord.com/users/755692726074343424)
-    
-[![Discord Presence](https://lanyard.cnrad.dev/api/755692726074343424)](https://discord.com/users/755692726074343424)
+ 

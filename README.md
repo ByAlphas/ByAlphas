@@ -33,14 +33,6 @@
     </a>
 <p>
     
-<br>
-<br>
-<a href="https://discord.com/users/942155951396503572">
-        <img src="https://lanyard-profile-readme.vercel.app/api/942155951396503572?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
-    </a>
-</p>
-</p>
-&nbsp;
  
 [![Discord Presence](https://lanyard.cnrad.dev/api/755692726074343424)](https://discord.com/users/755692726074343424)
     

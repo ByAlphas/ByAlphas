@@ -32,6 +32,14 @@
         <img src="https://github-readme-streak-stats.herokuapp.com?user=ByAlphas&show_icons=true&theme=dark" />
     </a>
 <p>
-
+<br>
+<a href="https://discord.com/users/755692726074343424">
+        <img src="https://lanyard.cnrad.dev/api/755692726074343424?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
+    </a>
+</p>
+</p>
+&nbsp;
  
 [![Discord Presence](https://lanyard.cnrad.dev/api/755692726074343424)](https://discord.com/users/755692726074343424)
+    
+    

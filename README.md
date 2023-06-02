@@ -38,12 +38,10 @@
      My Discord Stats
         </h1>
         <p align="center">
-       <
-
-    
- <p align="center">
-    <h1 align="center"(https://lanyard.cnrad.dev/api/755692726074343424)](https://discord.com/users/755692726074343424)</h1>
-</p>
+       <a href="https://lanyard.cnrad.dev/api/755692726074343424">
+                   <img src="https://discord.com/users/755692726074343424" />
+           </a>
+    </p>
     
     
 

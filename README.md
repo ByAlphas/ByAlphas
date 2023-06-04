@@ -6,14 +6,12 @@
     Languages & Tools
 </h1>
 
-</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,java,mysql,sqlite,mongo&theme=dark"/>
- </div>
-</h2>
 <h2 align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,java,mysql,sqlite,mongo&theme=dark"/>
-</h2>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,java,mysql,sqlite,mongo&theme=dark" />
+    </h2>
+     <h2 align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,java,mysql,sqlite,mongo&theme=white" />
+     </h2>
 
 <h1 align="center">
     My GitHub Stats

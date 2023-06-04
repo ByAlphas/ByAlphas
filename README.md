@@ -7,7 +7,9 @@
 </h1>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,mysql,sqlite,mongo&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,java,mysql,sqlite,mongo&theme=dark"/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,java,mysql,sqlite,mongo&theme=dark"/>
 </div>
 
 <h1 align="center">

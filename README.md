@@ -9,10 +9,10 @@
 </h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,java,mysql,sqlite,mongo&theme=dark"/>
+ </div>
 </h2>
 <h2 align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,java,mysql,sqlite,mongo&theme=dark"/>
-</div>
 </h2>
 
 <h1 align="center">

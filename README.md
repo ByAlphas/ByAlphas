@@ -18,8 +18,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=ByAlphas&show_icons=true&theme=dark" />
     <a href="https://github.com/ByAlphas">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=ByAlphas&show_icons=true&theme=dark" />
-   <img src="https://github-readme-stats.vercel.app/api?username=Bes-js&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" align="center" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bes-js&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByAlphas&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" align="center" />
     </a>
 </p>
     

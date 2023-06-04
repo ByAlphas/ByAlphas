@@ -10,7 +10,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,java,mysql,sqlite,mongo&theme=dark"/>
 </h2>
-<div align="center">
+</h2 align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,java,mysql,sqlite,mongo&theme=dark"/>
 </div>
 

@@ -11,16 +11,6 @@
 </div>
 
 <h1 align="center">
-    Tools And Technology
-</h1>
-
-<div align="center">
-    <img src="https://img.shields.io/badge/Node.js-323540?style=for-the-badge&logo=node.js&logoColor=5294E2" alt="Node.js" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/MongoDB-323540?style=for-the-badge&logo=mongodb&logoColor=5294E2" alt="MongoDB" style="border-radius:15px"/>
-</div>
-
-
-<h1 align="center">
     My GitHub Stats
 </h1>
   <p align="center">

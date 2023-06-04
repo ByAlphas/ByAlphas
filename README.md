@@ -19,7 +19,8 @@
   <p align="center">
     <a href="https://github.com/ByAlphas/">
         <img src="https://github-readme-stats.vercel.app/api?username=ByAlphas&show_icons=true&theme=dark" />
-           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByAlphas&layout=compact&show_icons=true&theme=dark&border=true" />align="center" />
+        <a href="https://github.com/ByAlphas"
+           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByAlphas&layout=compact&show_icons=true&theme=dark&border=true" />
     </a>
 </p>
     

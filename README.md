@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    Programming Languages & Tools
+    Languages & Tools
 </h1>
 
 <div align="center">

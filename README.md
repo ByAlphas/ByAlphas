@@ -7,10 +7,10 @@
 </h1>
 
 <h2 align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,vite,react,java,mysql,sqlite,mongo&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,nodejs,java,mysql,sqlite,mongo&theme=dark" />
     </h2>
      <h2 align="center">
-    <img src="https://skillicons.dev/icons?i=powershell,stackoverflow,github,discord,bots,vscode,visualstudio,atom&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=powershell,stackoverflow,github,discord,bots,vscode,visualstudio,atom,vite,react&theme=dark" />
      </h2>
 
 <h1 align="center">
